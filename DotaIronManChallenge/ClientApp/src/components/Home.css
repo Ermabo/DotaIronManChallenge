@@ -1,0 +1,63 @@
+﻿:root {
+    --item-img-width: 77px;
+}
+
+
+.challenge-container {
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 270PX;
+    animation-duration: 2s;
+    animation-name: slidein;
+}
+
+.card-image {
+    padding-bottom: 10px;
+}
+
+.card-video {
+    padding-bottom: 10px;
+}
+
+.card-title {
+    font-size: 32px;
+    text-align: center;
+}
+
+.item {
+
+}
+.challenge-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.build {
+    display: grid;
+    grid-gap: 8px 8px;
+    grid-template-columns: var(--item-img-width) var(--item-img-width) var(--item-img-width);
+}
+
+.item-image {
+    width: var(--item-img-width)
+}
+
+
+@keyframes slidein {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        margin-top: 1;
+    }
+}

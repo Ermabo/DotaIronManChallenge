@@ -1,0 +1,59 @@
+[
+  {
+    "id": 48,
+    "name": "item_travel_boots",
+    "cost": 2500,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0,
+    "localized_name": "Boots of Travel"
+  },
+
+  {
+    "id": 50,
+    "name": "item_phase_boots",
+    "cost": 1480,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0,
+    "localized_name": "Phase Boots"
+  },
+
+  {
+    "id": 63,
+    "name": "item_power_treads",
+    "cost": 1450,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0,
+    "localized_name": "Power Treads"
+  },
+
+  {
+    "id": 180,
+    "name": "item_arcane_boots",
+    "cost": 1400,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0,
+    "localized_name": "Arcane Boots"
+  },
+  {
+    "id": 214,
+    "name": "item_tranquil_boots",
+    "cost": 1050,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0,
+    "localized_name": "Tranquil Boots"
+  },
+  {
+    "id": 231,
+    "name": "item_guardian_greaves",
+    "cost": 5475,
+    "secret_shop": 0,
+    "side_shop": 0,
+    "recipe": 0,
+    "localized_name": "Guardian Greaves"
+  }
+]
